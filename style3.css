@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(241, 233, 223);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+
+.card {
+    color: aliceblue;
+    width: 25%;
+    height: 20%;
+    background-color: rgb(240, 236, 215);
+    box-shadow: 5px 10px 10px rgb(172, 161, 146);
+    border-radius: 10%;
+    padding: 2%;
+    text-align: center;
+    background-image: url("https://img.freepik.com/vetores-gratis/ingredientes-para-pizza-sem-costura_1176-269.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
